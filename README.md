@@ -1,3 +1,3 @@
 # Learning-Cpp
 
-Starting to learn C++ programming language 
+Learnig C++ programming language from basics
