@@ -1,0 +1,9 @@
+Primitive data types available in C++ are :-
+
+Integer - int
+Character - char
+Boolean - bool 
+Floating Point - float
+Double Floating Point - double
+Valueless -  void 
+Wide Character - wchar_t
